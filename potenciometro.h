@@ -1,0 +1,2 @@
+//Inicializamos potenciometro
+int potenciometro();
