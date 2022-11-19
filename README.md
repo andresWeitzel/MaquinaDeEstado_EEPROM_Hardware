@@ -4,8 +4,11 @@
 
 </br>
 
-### Proyecto
+### Hardware
 ![Index app](https://github.com/andresWeitzel/MaquinaDeEstado_EEPROM_Hardware/blob/master/doc/02.jpg)
+![Index app](https://github.com/andresWeitzel/MaquinaDeEstado_EEPROM_Hardware/blob/master/doc/03.jpg)
+
+
 
 
 ### Multiplexación .
